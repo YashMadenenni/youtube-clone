@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Links
+Guide Youtube-Clone-JSMastery: https://youtu.be/FHTbsZEJspU?si=O5aKU02xZ9PzIwUU
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
